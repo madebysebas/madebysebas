@@ -17,6 +17,7 @@ Senior Full Stack Engineer based in Bogotá, Colombia. For 7+ years I've built A
 
 ## Projects
 
+- [shipments-api](https://github.com/madebysebas/shipments-api) — shipment tracking REST API with NestJS, Prisma and PostgreSQL: status state machine, concurrency-safe updates, e2e tests and CI.
 - [moneymate-web](https://github.com/madebysebas/moneymate-web) — personal finance tracker built with Laravel, Alpine.js and Tailwind CSS. [Live demo](https://moneymate.fly.dev/es/login)
 
 ## Contact
